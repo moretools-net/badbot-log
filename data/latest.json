@@ -45,6 +45,10 @@
 {"ip":"104.22.224.104","time":"2026-11-22T16:46:50Z","path":"/wp-json/wp/v2/users","useragent":"Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity","source":"wpjson_user"},
 {"ip":"104.22.66.120","time":"2026-11-22T19:22:37Z","path":"/wp-json/wp/v2/users","useragent":"Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity","source":"wpjson_user"},
 {"ip":"104.23.175.199","time":"2026-11-22T19:24:27Z","path":"/wp-json/wp/v2/users","useragent":"Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity","source":"wpjson_user"},
+{"ip":"172.70.92.138","time":"2026-11-22T21:30:55Z","path":"/wp-json/wp/v2/users?per_page=2","useragent":"Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36","source":"wpjson_user"},
+{"ip":"162.158.88.157","time":"2026-11-22T21:58:19Z","path":"/wp-json/wp/v2/users?per_page=2","useragent":"Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36","source":"wpjson_user"},
+{"ip":"162.158.170.181","time":"2026-11-22T23:09:15Z","path":"/wp-json/wp/v2/users","useragent":"Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity","source":"wpjson_user"},
+{"ip":"172.71.81.104","time":"2026-11-22T23:14:24Z","path":"/wp-json/wp/v2/users","useragent":"Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity","source":"wpjson_user"},
 {"ip":"162.158.107.37","time":"2026-11-22T00:51:08Z","path":"//xmlrpc.php?rsd","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36","source":"xmlrpc"},
 {"ip":"104.22.222.6","time":"2026-11-22T01:02:12Z","path":"//xmlrpc.php?rsd","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36","source":"xmlrpc"},
 {"ip":"162.158.106.119","time":"2026-11-22T01:44:42Z","path":"/xmlrpc.php","useragent":"Jetpack by WordPress.com","source":"xmlrpc"},
@@ -72,8 +76,13 @@
 {"ip":"162.158.108.66","time":"2026-11-22T19:29:21Z","path":"/xmlrpc.php","useragent":"Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity","source":"xmlrpc"},
 {"ip":"162.158.170.132","time":"2026-11-22T19:58:35Z","path":"/xmlrpc.php?rsd","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36","source":"xmlrpc"},
 {"ip":"172.70.143.195","time":"2026-11-22T20:25:28Z","path":"//xmlrpc.php?rsd","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0 Safari/537.36","source":"xmlrpc"},
-{"ip":"172.70.92.139","time":"2026-11-21T22:17:17Z","path":"/xmlrpc.php","useragent":"Jetpack by WordPress.com","source":"xmlrpc"},
-{"ip":"162.158.170.153","time":"2026-11-21T22:26:55Z","path":"/xmlrpc.php","useragent":"Jetpack/12.1; WordPress/6.2","source":"xmlrpc"},
-{"ip":"104.22.224.77","time":"2026-11-21T22:37:16Z","path":"/xmlrpc.php","useragent":"Jetpack/12.1; WordPress/6.2","source":"xmlrpc"},
-{"ip":"104.22.66.245","time":"2026-11-21T22:42:52Z","path":"/xmlrpc.php","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.85 Safari/537.36","source":"xmlrpc"}
+{"ip":"104.22.66.135","time":"2026-11-22T21:30:38Z","path":"/xmlrpc.php","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","source":"xmlrpc"},
+{"ip":"104.23.175.42","time":"2026-11-22T21:30:38Z","path":"/xmlrpc.php","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1","source":"xmlrpc"},
+{"ip":"172.70.188.60","time":"2026-11-22T21:40:11Z","path":"/xmlrpc.php","useragent":"WordPress/6.8; https://example.org","source":"xmlrpc"},
+{"ip":"162.158.190.46","time":"2026-11-22T21:40:13Z","path":"/xmlrpc.php","useragent":"WordPress/6.8; https://example.org","source":"xmlrpc"},
+{"ip":"104.22.222.21","time":"2026-11-22T21:58:04Z","path":"/xmlrpc.php","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","source":"xmlrpc"},
+{"ip":"162.158.88.157","time":"2026-11-22T21:58:05Z","path":"/xmlrpc.php","useragent":"Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36","source":"xmlrpc"},
+{"ip":"172.71.124.112","time":"2026-11-22T22:28:53Z","path":"/xmlrpc.php","useragent":"Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity","source":"xmlrpc"},
+{"ip":"162.158.88.111","time":"2026-11-22T23:16:18Z","path":"/xmlrpc.php","useragent":"Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity","source":"xmlrpc"},
+{"ip":"172.70.208.59","time":"2026-11-22T23:49:20Z","path":"/xmlrpc.php?rsd","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36","source":"xmlrpc"}
 ]
